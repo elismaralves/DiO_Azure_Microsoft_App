@@ -6,6 +6,16 @@ import json
 import os
 #import pandas as pd 
 
+# Configurações do Azure Storage
+CONNECTION_STRING = ""
+CONTAINER_NAME = "produtos"
+ACCOUNT_NAME = ""
+
+# Configurações do Azure SQL Server
+SQL_SERVER   = "sqlsrvdio001.database.windows.net"
+SQL_DATABASE = "sqldbdio001 "
+SQL_USERNAME = ""
+SQL_PASSWORD = "
 
 # Título da aplicação
 st.title("Cadastro de Produto - E-Commerce na Cloud")
