@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "Teste 300",
+        "descricao": "Testando cadastro de produtos...\n",
+        "preco": 2.5,
+        "imagem_url": null
+    },
+    {
+        "nome": "Teste 35",
+        "descricao": "...?",
+        "preco": 1.0,
+        "imagem_url": "https://stadiodevlab001eastus001.blob.core.windows.net/fotos/fb253536-2219-484e-9cfa-caa87f58dfb7.jpg"
+    },
+    {
+        "nome": "Teste 25",
+        "descricao": "Testando cadastro de produtos...\n",
+        "preco": 1700.0,
+        "imagem_url": "https://stadiodevlab001eastus001.blob.core.windows.net/fotos/a84cf7e7-c636-460c-b4fb-56fcedb50a44.jpg"
+    },
+    {
+        "nome": "Teste 26",
+        "descricao": "Testando cadastro de produtos...",
+        "preco": 3.0,
+        "imagem_url": "https://stadiodevlab001eastus001.blob.core.windows.net/fotos/297c11f9-9d64-4570-8a25-8424fcb3d4f2.jpg"
+    },
+    {
+        "nome": "Teste 27",
+        "descricao": "Testando cadastro de produtos...",
+        "preco": 0.0,
+        "imagem_url": "https://stadiodevlab001eastus001.blob.core.windows.net/fotos/b72470f8-8a7a-4dc6-8ff8-b9391fd122ad.jpg"
+    },
+    {
+        "nome": "Teste 27",
+        "descricao": "test produtos",
+        "preco": 5.0,
+        "imagem_url": "https://stadiodevlab001eastus001.blob.core.windows.net/fotos/51614c75-ab5f-45f8-a9a9-cc3e147d06b3.jpg"
+    },
+    {
+        "nome": "Teste 28",
+        "descricao": "Testando cadastro de produtos...",
+        "preco": 2560.0,
+        "imagem_url": "https://stadiodevlab001eastus001.blob.core.windows.net/fotos/fa44c20d-e706-4f62-94a6-240a7117fd31.jpg"
+    },
+    {
+        "nome": "Produto Teste 28",
+        "descricao": "Testando cadastro de produtos... 002",
+        "preco": 105.0,
+        "imagem_url": "https://stadiodevlab001eastus001.blob.core.windows.net/fotos/99d5fcaa-2f24-49c1-828d-fc2f4e0882d5.jpg"
+    }
+]

@@ -1,0 +1,7 @@
+CREATE TABLE produtos ( 
+        id INT IDENTITY(1,1) PRIMARY KEY,
+        nome NVARCHAR(255),
+        descricao VARCHAR(MAX),
+        preco DECIMAL(18,2),
+        imagem_url VARCHAR(2083)
+)
